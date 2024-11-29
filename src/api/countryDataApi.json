@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "name": "World",
+    "capital": "No Capital",
+    "population":  8045311000 ,
+    "interestingFact": "There are more trees on Earth than stars in the Milky Way galaxy! 🌳>>>>✨"
+  },
+  {
+    "id": 1,
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "population": 331002651,
+    "interestingFact": "The United States has no official language at the federal level."
+  },
+  {
+    "id": 2,
+    "name": "Canada",
+    "capital": "Ottawa",
+    "population": 38005238,
+    "interestingFact": "Canada has the longest coastline of any country in the world."
+  },
+  {
+    "id": 3,
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": 212559417,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, the largest rainforest in the world."
+  },
+  {
+    "id": 4,
+    "name": "India",
+    "capital": "New Delhi",
+    "population": 1393409038,
+    "interestingFact": "India is the largest producer of milk in the world."
+  },
+  {
+    "id": 5,
+    "name": "China",
+    "capital": "Beijing",
+    "population": 1444216107,
+    "interestingFact": "China is the world's most populous country."
+  },
+  {
+    "id": 6,
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": 25687041,
+    "interestingFact": "Australia is home to more kangaroos than people."
+  },
+  {
+    "id": 7,
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": 126476461,
+    "interestingFact": "Japan has more than 1,500 earthquakes each year."
+  },
+  {
+    "id": 8,
+    "name": "France",
+    "capital": "Paris",
+    "population": 65273511,
+    "interestingFact": "France is the most visited country in the world."
+  },
+  {
+    "id": 9,
+    "name": "Germany",
+    "capital": "Berlin",
+    "population": 83783942,
+    "interestingFact": "Germany is known for its precision engineering and high-quality cars."
+  },
+  {
+    "id": 11,
+    "name": "Russia",
+    "capital": "Moscow",
+    "population": 146171015,
+    "interestingFact": "Russia is the largest country in the world by land area."
+  },
+  {
+    "id": 12,
+    "name": "Italy",
+    "capital": "Rome",
+    "population": 60367477,
+    "interestingFact": "Italy is home to the world's smallest country, Vatican City."
+  }
+]

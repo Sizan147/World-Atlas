@@ -1,0 +1,20 @@
+[
+  {
+    "icon": "MdPlace",
+    "id": 1,
+    "title": "Find Us",
+    "details": "Dhaka, Bangladesh"
+  },
+  {
+    "icon": "IoCallSharp",
+    "id": 2,
+    "title": "Call Us",
+    "details": "01900000000"
+  },
+  {
+    "icon": "TbMailPlus",
+    "id": 3,
+    "title": "Mail Us",
+    "details": "nigerman147@gmail.com"
+  }
+]
